@@ -1,0 +1,71 @@
+html,body{height: 95%;}
+
+.container {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  width:100%;
+  height: 100%;
+}
+
+.c1, .c2, .c3{
+  width: 100%;
+    height: 50%;
+}
+
+.c1 {
+        overflow-x: auto;
+
+}
+
+.c1 table{
+        margin: 0 auto;
+        font-size:10px;
+        min-width:1000px;
+}
+
+.c2{
+    background:pink;
+}
+
+.c2 img{
+        display: block;
+        max-height:100%;
+        max-width: 100%;
+        margin: 0 auto;
+}
+
+
+.c3{
+    background:yellow;
+}
+
+.c3 img{
+        display: block;
+        max-height:100%;
+        max-width: 100%;
+        margin: 0 auto;
+    
+    
+}
+
+
+@media (min-width: 800px) {
+    .c1 {
+        width: 100%;
+    }
+    
+    .c1 table{
+        margin: 0 auto;
+        font-size:12px;
+    }
+    
+
+    .c2, .c3 {
+        width: 50%;
+    }
+
+
+
+}
