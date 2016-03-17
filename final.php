@@ -71,25 +71,23 @@
         <div id ="fullpage">
             <div class="section">
                 <div class="slide"  id="s1" data-anchor="Page1">
-                    <div class="container">
+                    <div class="container, datachart">
                     <h1>GRAPHS</h1>
-                    <img src="image-CuteCat2.jpg"</img>
-                    On 5 June 1995 an adult male mallard (Anas platyrhynchos) collided with the glass facade of the Natuurmuseum Rotterdam and died. An other drake mallard raped the corpse almost continuously for 75 minutes. Then the author disturbed the scene and secured the dead duck. Dissection showed that the rape-victim indeed was of the male sex. It is concluded that the mallards were engaged in an ‘Attempted Rape Flight’ that resulted in the first described case of homosexual necrophilia in the mallard.
-                    Pie is wonderfully f
-                        It is concluded that the mallards were engaged in an ‘Attempted Rape Flight’ that resulted in the first described case of homosexual necrophilia in the mallard.
-                        It is concluded that the mallards were engaged in an ‘Attempted Rape Flight’ that resulted in the first described case of homosexual necrophilia in the mallard.
-                        Mary had a little lamb who was white as snow. Mary had a little lamb who was white as snow. Mary had a little lamb who was white as snow. It soon fell down a manhole.Mary had a little lamb who was white as snow. Mary had a little lamb who was white as snow. Mary had a little lamb who was white as snow. It soon fell down a manhole.
+                    <?php include 'php-alex-sql.php';?>
                         </div>
                 </div>
                 <div class="slide"  id="s2"> 
                     <div class="container">
-                    <img src="image-CuteCat.jpg" </img>
-                    On 5 June 1995 an adult male mallard (Anas platyrhynchos) collided with the glass facade of the Natuurmuseum Rotterdam and died. An other drake mallard raped the corpse almost continuously for 75 minutes. Then the author disturbed the scene and secured the dead duck. Dissection showed that the rape-victim indeed was of the male sex. It is concluded that the mallards were engaged in an ‘Attempted Rape Flight’ that resulted in the first described case of homosexual necrophilia in the mallard.</div>
+                    <img src="image-CuteCat2.jpg" </img>
+                    
+                    <p>On 5 June 1995 an adult male mallard (Anas platyrhynchos) collided with the glass facade of the Natuurmuseum Rotterdam and died. An other drake mallard raped the corpse almost continuously for 75 minutes. Then the author disturbed the scene and secured the dead duck. Dissection showed that the rape-victim indeed was of the male sex. It is concluded that the mallards were engaged in an ‘Attempted Rape Flight’ that resulted in the first described case of homosexual necrophilia in the mallard.</p></div>
                     </div>
                 <div class="slide"  id="s3"> 
                     <div class="container">
                     <img src="image-CuteDog.jpg"</img>
-                    On 5 June 1995 an adult male mallard (Anas platyrhynchos) collided with the glass facade of the Natuurmuseum Rotterdam and died. An other drake mallard raped the corpse almost continuously for 75 minutes. Then the author disturbed the scene and secured the dead duck. Dissection showed that the rape-victim indeed was of the male sex. It is concluded that the mallards were engaged in an ‘Attempted Rape Flight’ that resulted in the first described case of homosexual necrophilia in the mallard.</div>
+                    
+                    <p>On 5 June 1995 an adult male mallard (Anas platyrhynchos) collided with the glass facade of the Natuurmuseum Rotterdam and died. An other drake mallard raped the corpse almost continuously for 75 minutes. Then the author disturbed the scene and secured the dead duck. Dissection showed that the rape-victim indeed was of the male sex. It is concluded that the mallards were engaged in an ‘Attempted Rape Flight’ that resulted in the first described case of homosexual necrophilia in the mallard.</p>
+                    </div>
                     </div>
                     
             </div><!-- end of Main-->
@@ -98,7 +96,8 @@
             <div class="section" data-anchor="Page2">
                 <div id='Project' class="container">
                     <h1>Project</h1>
-                    The overall body plan of ducks is elongated and broad, and the ducks are also relatively long-necked, albeit not as long-necked as the geese and swans. The body shape of diving ducks varies somewhat from this in being more rounded. The bill is usually broad and contains serrated lamellae, which are particularly well defined in the filter-feeding species. In the case of some fishing species the bill is long and strongly serrated. The scaled legs are strong and well developed, and generally set far back on the body, more so in the highly aquatic species. The wings are very strong and are generally short and pointed, and the flight of ducks requires fast continuous strokes, requiring in turn strong wing muscles. Three species of steamer duck are almost flightless, however. Many species of duck are temporarily flightless while moulting; they seek out protected habitat with good food supplies during this period. This moult typically precedes migration.
+                    
+                    <p>The overall body plan of ducks is elongated and broad, and the ducks are also relatively long-necked, albeit not as long-necked as the geese and swans. The body shape of diving ducks varies somewhat from this in being more rounded. The bill is usually broad and contains serrated lamellae, which are particularly well defined in the filter-feeding species. In the case of some fishing species the bill is long and strongly serrated. The scaled legs are strong and well developed, and generally set far back on the body, more so in the highly aquatic species. The wings are very strong and are generally short and pointed, and the flight of ducks requires fast continuous strokes, requiring in turn strong wing muscles. Three species of steamer duck are almost flightless, however. Many species of duck are temporarily flightless while moulting; they seek out protected habitat with good food supplies during this period. This moult typically precedes migration.
 
 The drakes of northern species often have extravagant plumage, but that is moulted in summer to give a more female-like appearance, the "eclipse" plumage. Southern resident species typically show less sexual dimorphism, although there are exceptions like the paradise shelduck of New Zealand which is both strikingly sexually dimorphic and where the female's plumage is brighter than that of the male. The plumage of juvenile birds generally resembles that of the female.
 
@@ -126,7 +125,7 @@ A Muscovy duck duckling.
 The ducks are generally monogamous, although these bonds generally last only a single year. Larger species and the more sedentary species (like fast river specialists) tend to have pair-bonds that last numerous years. Most duck species breed once a year, choosing to do so in favourable conditions (spring/summer or wet seasons). Ducks also tend to make a nest before breeding, and after hatching to lead their ducklings to water. Mother ducks are very caring and protective of their young, but may abandon some of their ducklings if they are physically stuck in an area they cannot get out of (including nesting in an enclosed courtyard) or are not prospering due to genetic defects or sickness brought about by hypothermia, starvation, or disease. Ducklings can also be orphaned by inconsistent late hatching where a few eggs hatch after the mother has abandoned the nest and led her ducklings to water.[citation needed]
 
 Most domestic ducks neglect their eggs and ducklings, and their eggs must be hatched under a broody hen or artificially.
-                </div>
+                    </p></div>
             </div><!-- end of Project-->
             
             

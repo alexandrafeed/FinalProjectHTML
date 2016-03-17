@@ -17,6 +17,7 @@
     #header{top:0px;}
     #footer{bottom:0px;}
 
+
 #fullpage{
     color: white;   
     width: 100%;
@@ -24,11 +25,16 @@
 }
 
 
-.Project{margin-top:50px;overflow-y:scroll;}
+.Project{
+    margin-top:50px;
+    
+
+}
 
 #fullpage img{
     height: 60%;
     width: 100%;
+    
 }
 
 
@@ -45,7 +51,29 @@
     padding-top:50px;
 }
 
+.datachart{
+    overflow-x:auto; 
+}
 
+/*Table related */
+table{
+        margin: 0 auto;
+        font-size:10px;
+        min-width:1000px;
+}
+
+
+@media screen and (min-width: 800px) {
+    #fullpage img{
+        height: 30%;
+        width: 800px;
+    }
+    /*Table related */
+    table{
+        margin: 0 auto;
+        font-size:12px;
+    }
+}
 
 
 
