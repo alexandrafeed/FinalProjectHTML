@@ -78,7 +78,7 @@
                 </div>
                 <div class="slide"  id="s2"> 
                     <div class="container,datagraph">
-                    <?php include 'php-taqi-WPS.php';?>
+                    <!--<?php include 'php-taqi-WPS.php';?>-->
                     
                     <p>On 5 June 1995 an adult male mallard (Anas platyrhynchos) collided with the glass facade of the Natuurmuseum Rotterdam and died. An other drake mallard raped the corpse almost continuously for 75 minutes. Then the author disturbed the scene and secured the dead duck. Dissection showed that the rape-victim indeed was of the male sex. It is concluded that the mallards were engaged in an ‘Attempted Rape Flight’ that resulted in the first described case of homosexual necrophilia in the mallard.</p></div>
                     </div>
